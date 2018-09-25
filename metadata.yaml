@@ -1,0 +1,23 @@
+_repo: The-Treasure-of-the-San-Philipo-_57242
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Westerman, Percy F. (Percy Francis)
+    birthdate: 1876
+    deathdate: 1959
+    gutenberg_agent_id: '32140'
+    url: http://www.gutenberg.org/2009/agents/32140
+    wikipedia: http://en.wikipedia.org/wiki/Percy_F._Westerman
+description: ''
+gutenberg_issued: '2018-05-31'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '57242'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- GITenberg
+title: The Treasure of the 'San Philipo'
+url: http://www.gutenberg.org/ebooks/57242
